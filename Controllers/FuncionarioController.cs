@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApi_Funcionarios.Controllers
+namespace WebApiFuncionario.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

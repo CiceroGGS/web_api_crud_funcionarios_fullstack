@@ -1,14 +1,12 @@
 using Microsoft.EntityFrameworkCore;
 using WebApiFuncionario.Models;
 
-namespace WebApi_Funcionario.DataContext
+namespace WebApiFuncionario.DataContext
 {
     public class ApplicationDbContext : DbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
-        {
-
-        }
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options) { }
+        
         public DbSet<FuncionarioModel> Funcionarios { get; set; }
     }
 }

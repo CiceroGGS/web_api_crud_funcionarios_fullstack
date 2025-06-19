@@ -1,4 +1,4 @@
-namespace WebApi_Funcionario.Models
+namespace WebApiFuncionario.Models
 {
     public class ServiceResponse<T>
     {
