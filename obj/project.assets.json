@@ -5199,11 +5199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/oricao/Dev_Cicero/ESTUDOS_DEV/DOTNET/WebApi_Funcionarios/WebApi_Funcionarios.csproj",
+      "projectUniqueName": "/home/oricao/Development/ESTUDOS_DEV/DOTNET/WebApi_Funcionarios/WebApi_Funcionarios.csproj",
       "projectName": "WebApi_Funcionarios",
-      "projectPath": "/home/oricao/Dev_Cicero/ESTUDOS_DEV/DOTNET/WebApi_Funcionarios/WebApi_Funcionarios.csproj",
+      "projectPath": "/home/oricao/Development/ESTUDOS_DEV/DOTNET/WebApi_Funcionarios/WebApi_Funcionarios.csproj",
       "packagesPath": "/home/oricao/.nuget/packages/",
-      "outputPath": "/home/oricao/Dev_Cicero/ESTUDOS_DEV/DOTNET/WebApi_Funcionarios/obj/",
+      "outputPath": "/home/oricao/Development/ESTUDOS_DEV/DOTNET/WebApi_Funcionarios/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/oricao/.nuget/NuGet/NuGet.Config"
@@ -5283,7 +5283,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.410/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.411/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
